@@ -1,0 +1,89 @@
+b7eaa0499903be55990624365db879ab0f20e5b63424098a6aa60f1c80cac9ff  ./metadata/BUILD_INFO.txt
+b376ad1a18ed1060e8c6519c9de47f8610f0f0661050ee0cdfe643d9d5dd20ff  ./metadata/requirements-lock.txt
+c5c0a194710cad13c9dc55f32eae87772d67c1dcd813c4811918deeb3acbf481  ./payload/rag-poc/documents/Adding New Overworlds in HeartGold Engine.txt
+398b1c567b8d8b51fe9aa2e4f80c23a909a3602aeeabd4f2f9016689258b3cc1  ./payload/rag-poc/documents/Battle_Logic_Edits.txt
+b2c906fa2ec327f6a126066c651f34b6e85dbe1a1ce4a0df4037da2ab2eca243  ./payload/rag-poc/documents/Bug Catching Contests.txt
+dadda0015fe1dd6cc5cefc7d1632526de0b5384b60faa41ba41af62efe320f74  ./payload/rag-poc/documents/Code Injection.txt
+7aefec30356a3582de43a11d9d7a90e826f32373802f0a941b1bba95fc52e65f  ./payload/rag-poc/documents/Creating New Script Commands in HeartGold Engine.txt
+cf6bd34411622d39a16804b9c0980188b4548d1ced5956c604eef3da413eec23  ./payload/rag-poc/documents/Editing Moves.txt
+71fb8d41920bc182732a30969db800e77b0875c67b3cc1ce970b7ec3a2f46472  ./payload/rag-poc/documents/Editing the Town Map.txt
+943a3f9fa7726efb5436858df06ec326bc452821e36531c989b1d387ba645a2b  ./payload/rag-poc/documents/Getting_Started.txt
+2004c7a2f2fc892e78fba07ae4152f9db56ddb692c447339805010cb618d8946  ./payload/rag-poc/documents/Headbutt Trees.txt
+89a5fc293382b8ae1bf4f587aa1bd0e8c5e3de9389151b5376ec2c062aa49507  ./payload/rag-poc/documents/Modifying Growth Rate Experience.txt
+d1d6e1943b8081ba7400e6a91402e2ac1d71e59044252cba3eeec684157eb187  ./payload/rag-poc/documents/Photo Locations.txt
+e3bec83893d719e5a5a6809c53c876405bbadc7d4077e71f8cf61fd542a65a3f  ./payload/rag-poc/documents/Rock Smash.txt
+35052d9c366e5c6812e16bf24d6cac7270c6f971cb4489141b9b73b638fd288e  ./payload/rag-poc/documents/Translucent Textures and Darkness Weather.txt
+2a7f95eadc881640e10d51ad2df6e1eabc0fd9045fb3c72631630d3e6536349a  ./payload/rag-poc/embedding_smoke_test.py
+2995f9fa289facf8da4bb09152c5036e6f0ff8fd08feeec19d84800269eaa525  ./payload/rag-poc/ingest_documents.py
+12f6c4b4da3d9223d1aacf7fce05590d3df82992a02c1b8455bb369e6c93737f  ./payload/rag-poc/llm_smoke_test.py
+51f1bd0addd6e859e42c2c8021a5e5461385bb676a649f4b269aa445449f2431  ./payload/rag-poc/models/fastembed_cache/blobs/aa/aaca296ced1def8c4e3df6cb215f78017b69427da86a9b725e77e8f68665ca8d
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./payload/rag-poc/models/fastembed_cache/blobs/aa/aaca296ced1def8c4e3df6cb215f78017b69427da86a9b725e77e8f68665ca8d.lock
+d1f6f05274bc57c40553c35b32588f543195f18b6c015c0fb634a710a3fee3f9  ./payload/rag-poc/models/fastembed_cache/blobs/aa/aaca296ced1def8c4e3df6cb215f78017b69427da86a9b725e77e8f68665ca8d.refs
+4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865  ./payload/rag-poc/models/fastembed_cache/blobs/.huggingface-shared-blobs
+f6572428f6d5e1575e73a1502895a8731f10757dfbb634909c6e154b849af91d  ./payload/rag-poc/models/fastembed_cache/CACHEDIR.TAG
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./payload/rag-poc/models/fastembed_cache/.locks/models--Qdrant--bge-small-en-v1.5-onnx-Q/0d7726d0cdccb62ee17c03bd1595cff07199b8f8.lock
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./payload/rag-poc/models/fastembed_cache/.locks/models--Qdrant--bge-small-en-v1.5-onnx-Q/51f1bd0addd6e859e42c2c8021a5e5461385bb676a649f4b269aa445449f2431.lock
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./payload/rag-poc/models/fastembed_cache/.locks/models--Qdrant--bge-small-en-v1.5-onnx-Q/688882a79f44442ddc1f60d70334a7ff5df0fb47.lock
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./payload/rag-poc/models/fastembed_cache/.locks/models--Qdrant--bge-small-en-v1.5-onnx-Q/75305659f7795d4549f0e23688b52fa20a32f925.lock
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./payload/rag-poc/models/fastembed_cache/.locks/models--Qdrant--bge-small-en-v1.5-onnx-Q/9bbecc17cabbcbd3112c14d6982b51403b264bfa.lock
+13582bcf2effc85b7bf3d3f5532e686bc1c9ce86bb009d10f0ec33cbe92299dd  ./payload/rag-poc/models/fastembed_cache/models--Qdrant--bge-small-en-v1.5-onnx-Q/blobs/0d7726d0cdccb62ee17c03bd1595cff07199b8f8
+d241a60d5e8f04cc1b2b3e9ef7a4921b27bf526d9f6050ab90f9267a1f9e5c66  ./payload/rag-poc/models/fastembed_cache/models--Qdrant--bge-small-en-v1.5-onnx-Q/blobs/688882a79f44442ddc1f60d70334a7ff5df0fb47
+0b29c7bfc889e53b36d9dd3e686dd4300f6525110eaa98c76a5dafceb2029f53  ./payload/rag-poc/models/fastembed_cache/models--Qdrant--bge-small-en-v1.5-onnx-Q/blobs/75305659f7795d4549f0e23688b52fa20a32f925
+5d5b662e421ea9fac075174bb0688ee0d9431699900b90662acd44b2a350503a  ./payload/rag-poc/models/fastembed_cache/models--Qdrant--bge-small-en-v1.5-onnx-Q/blobs/9bbecc17cabbcbd3112c14d6982b51403b264bfa
+a4963276f617e0167960e77ff22de17069860bfd72bb03fc3470b04f6ebe2989  ./payload/rag-poc/models/fastembed_cache/models--Qdrant--bge-small-en-v1.5-onnx-Q/files_metadata.json
+5821be71e4de7a1e0abd47d130583a7c38ec6ed676fdf8d0d532a168edb60438  ./payload/rag-poc/models/fastembed_cache/models--Qdrant--bge-small-en-v1.5-onnx-Q/refs/main
+4da434babbdfea1afb640c0792caf42f224e06c1cfc4fb152f7b3d27ed6f23c3  ./payload/rag-poc/models/fastembed_cache/models--Qdrant--bge-small-en-v1.5-onnx-Q/trees/aa8f8b060edb00e03bfdd08813a2949946c8ba55.json
+1adf0b11065d8ad2e8123ea110d1ec956dab4ab038eab665614adba04b6c3370  ./payload/rag-poc/models/Qwen2.5-1.5B-Instruct-Q4_K_M.gguf
+5c90c86beb8c0bdd91acbdc0f7cbbfdf3b19c6680bd1198469213af01b643859  ./payload/rag-poc/qdrant_smoke_test.py
+2357bd3bdce2ed117e489c01bc0526b02a265c682974517016a11afceee8c9eb  ./payload/rag-poc/rag_app.py
+4fa5ca11309f8bbe21b06294c8b44093e22741836187a05e670f7d1f556de94d  ./payload/rag-poc/rag_db/collection/text_chunks/storage.sqlite
+67a987c432005e3afcc13a871b3ddabaeee0f4504058da65b0769016d3083b44  ./payload/rag-poc/rag_db/.lock
+563d484002442111639609e8e919bd432665c32e4428fdc06338e560cc834d5d  ./payload/rag-poc/rag_db/meta.json
+c921fc45eda693b29085c8d673e2f426c80f58621fdf6a6c90bc334ea0fef0fb  ./payload/rag-poc/refresh_documents.sh
+d2aff6da45ec58d3705d33c69b4c8d7f7383d31e4919338c8402c5dd14fe7d04  ./payload/rag-poc/search_documents.py
+1db928a7de5db9ee2d490a12d85591e5e195980a5b41790221b18e5f651a8cfe  ./README_OFFLINE.md
+22252eb9dc7b78c696c62788cbd1e6a42a4786e3e6b5d513733e0f2699647108  ./setup_offline.sh
+faf7db1d3a264641b7e709ea17db5d4207804cf719c2987a032eb1dbfb4f836d  ./verify_offline.sh
+f072f4d804ea359e4eaf198b1af7a8b0943881a87f31bb764f8bf219bb9419e0  ./wheelhouse/annotated_types-0.8.0-py3-none-any.whl
+6152fdbbf9a77fdec97731721bebf7c4c44f7c29b424b0065826173efc7ed101  ./wheelhouse/anyio-4.15.1-py3-none-any.whl
+e9b54de76e530bb6cf0ccd036787103acb58fd42ba930ea8bf948ddbaa2f61d1  ./wheelhouse/certifi-2026.10.23-py3-none-any.whl
+3d31298449090ab8d47b7b1b2a555ff73cac7ed438a08b7ac160980c7ebed649  ./wheelhouse/charset_normalizer-3.5.2-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl
+255bc9599cf7748b4b1a446ccc735421bd08a2ae529a8b88597d3de5664ee360  ./wheelhouse/click-8.5.0-py3-none-any.whl
+5e31b2d5fbad117cc363ebaf6b689474db18a1f6438bc82358b024abd4c2ca19  ./wheelhouse/diskcache-5.6.3-py3-none-any.whl
+95042ac7f685bda6697861066d49f8b119fbde8b75ed5162bbb7e84e2dad0e1d  ./wheelhouse/fastembed-0.9.1-py3-none-any.whl
+301241438c57936ef93f4243a94f2559022268bfcf9b375a9a72eb0f8db8358e  ./wheelhouse/filelock-4.2.4-py3-none-any.whl
+7634f50c427838bb021c2d66a3d1168e9d199b0607e6329399f04846d42e20b4  ./wheelhouse/flatbuffers-25.12.19-py2.py3-none-any.whl
+8dd6e646e99ea382bd85f97a45e6b526a442d79423a7dc673f1e2756d05fcb5f  ./wheelhouse/fsspec-2026.9.0-py3-none-any.whl
+474408c92b27c823ea6aab2315e2ea52d5a4e0040b37ce1e65e89d9149c48205  ./wheelhouse/grpcio-1.84.1-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+63cf8bbe7522de3bf65932fda1d9c2772064ffb3dae62d55932da54b31cb6c86  ./wheelhouse/h11-0.16.0-py3-none-any.whl
+0e25f1462b23c9cb82d9eb02e28bc706dac2a68cb457c6a0d74d63c8a2a5d0e6  ./wheelhouse/h2-4.4.1-py3-none-any.whl
+2814a6e999d13464c4d679b788cc5d784eb5a4edfc638a31f10e9a11ab531ef8  ./wheelhouse/hf_xet-1.7.0-cp38-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+858ac0b02280fa582b5080d68db0899c62a80375e0e5413a74970c5e518b6986  ./wheelhouse/hpack-4.2.0-py3-none-any.whl
+2d400746a40668fc9dec9810239072b40b4484b640a8c38fd654a024c7a1bf55  ./wheelhouse/httpcore-1.0.9-py3-none-any.whl
+d909fcccc110f8c7faf814ca82a9a4d816bc5a6dbfea25d6591d6985b8ba59ad  ./wheelhouse/httpx-0.28.1-py3-none-any.whl
+04e434b06e100eddbce9a6e817d72693a7884b10a79bd67ab48080d5c07eb899  ./wheelhouse/huggingface_hub-1.33.0-py3-none-any.whl
+b03380493a519fce58ea5af42e4a42317bf9bd425596f7a0835ffce80f1a42e5  ./wheelhouse/hyperframe-6.1.0-py3-none-any.whl
+ab7ae7122974553370f0bdb919e1a960b2cd1bc1ef0276416d896db81c14582c  ./wheelhouse/idna-3.20-py3-none-any.whl
+85ece4451f492d0c13c5dd7c13a64681a86afae63a5f347908daf103ce6d2f67  ./wheelhouse/jinja2-3.1.6-py3-none-any.whl
+c8a3e98093e950d7a770f794842e36f2db82b2933e8762ed7b5ffd435011e8e4  ./wheelhouse/llama_cpp_python-0.3.36-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+31a33c10c8e1e10422bfd431aeb5d351c7cf7fa671e3c4df004162264b28220c  ./wheelhouse/loguru-0.7.3-py3-none-any.whl
+8e124f974786f831d6043728e38296969d3579db8896fe004682f5758e613581  ./wheelhouse/markupsafe-3.0.4-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl
+3b037280edc7a609a987fa7661a1132a3f6d721f46b299ed5f9f641b35ab415a  ./wheelhouse/mmh3-5.3.1-cp312-cp312-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl
+fbde6962867ee75b48b0ee29b2b9372ec5d617799dbaf38e82dc0596f2f7738a  ./wheelhouse/numpy-2.5.4-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl
+5e129d6c56abd53e659cb70f00a108d6824086470ff99c2e47a82e5786563db3  ./wheelhouse/onnxruntime-1.31.0-cp312-cp312-manylinux_2_28_x86_64.whl
+d7193f7c8e4e93f444fde0262bf90af30e16fa0ad0ad44cb553c87339b23cd1c  ./wheelhouse/packaging-26.3-py3-none-any.whl
+42d63be3af4f9b951b199b0a9d23365d37ab14687e6d77b74940432c8515c4ca  ./wheelhouse/pillow-13.0.0-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl
+7ccf472345f20d35bdc9d1841ff5f313260c2c33fe417f48c30ac46cccabf5be  ./wheelhouse/pip-23.2.1-py3-none-any.whl
+4a184e8fb1adb37e078ca1804f1b7c0d8e73d81136790b1ad695ae8f1c8be291  ./wheelhouse/portalocker-4.4.1-py3-none-any.whl
+89f23aa53c24553a2416fd4fd1ec06f74fa42b14b546d8883128813f775bbfd2  ./wheelhouse/protobuf-7.36.2-cp310-abi3-manylinux2014_x86_64.whl
+9195d967ec791692a04438115466764fb8b9a27b31f14a760437694f40d6b454  ./wheelhouse/pydantic-2.14.1-py3-none-any.whl
+93ba4e9d8210d941c200431a56b2c0400b131865947903937ed3ec5404307d2e  ./wheelhouse/pydantic_core-2.50.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+fa42f5f8feb694aaaa869eedf477fcaf66f67a192cd64d94302d06920c33864a  ./wheelhouse/py_rust_stemmers-0.1.8-cp312-cp312-manylinux_2_28_x86_64.whl
+ba1cc08a7ccde2d2ec775841541641e4548226580ab850948cbfda66a1befcdc  ./wheelhouse/pyyaml-6.0.3-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl
+0ab261197a497d16f3bf8a663c22e994f485c9fd7212d3c8b07c1a9de32fc152  ./wheelhouse/qdrant_client-1.20.0-py3-none-any.whl
+2a0d60c172f83ac6ab31e4554906c0f3b3588d37b5cb939b1c061f4907e278e0  ./wheelhouse/requests-2.34.2-py3-none-any.whl
+376851d22bcf9d650a5c3090bb83e6cf9e895fbf0595369fa4cd43c1f69b5f87  ./wheelhouse/tokenizers-0.23.3-cp310-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+c293e525e6fef9c20e8728fd4612df02a0aa31bb5fe91ecd93e123b1b7bffa73  ./wheelhouse/tqdm-4.70.1-py3-none-any.whl
+481caa481374e813c1b176ada14e97f1f67a4539ce9cfeb3f350d78d6370c2e8  ./wheelhouse/typing_extensions-4.16.0-py3-none-any.whl
+65b8397ba37ccbce054456aaccddfc91e6e3083c92824df348d96ca832f3f147  ./wheelhouse/typing_inspection-0.4.4-py3-none-any.whl
+0cf3cae568d36aa9576b28dfb35f11328f1cb974ca7647d9475ebb86c75ac6e3  ./wheelhouse/urllib3-2.8.0-py3-none-any.whl

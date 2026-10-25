@@ -1,0 +1,156 @@
+Getting Started
+Pokémon Diamond, Pearl, Platinum, HeartGold & SoulSilver Versions
+Maintainer(s):
+
+Disclaimer
+This page (and the information on it) are subject to change at any point in time, as tools get updated and/or deprecated. Please check back here often for the most up to date recommendations.
+
+Getting Started
+Prerequisites
+To start, you first need to obtain a dump of the game.
+This will not be provided for you under any circumstances, as it enables piracy (which is not supported by us); you must perform this process yourself.
+
+For this, you will need:
+
+A Generation IV Pokémon cartridge (Diamond, Pearl, Platinum, HeartGold or SoulSilver Version).
+A modified Nintendo DSi/3DS.
+GodMode9i.
+Launch GodMode9i on your console.
+Ensure the game cartridge is inserted.
+Select the NDS GAMECARD option in GodMode9i.
+Press A (yes) to dump the ROM.
+If successful, your ROM should be dumped to your SD card under the path sd:/gm9i/out.
+
+Known Good ROMs
+The tools to modify the games are verified to work with the following dumps.
+If your dump is not on this list, it is not guaranteed to work correctly with our tools, as it may be missing features (such as DSi-enhanced features). If this is the case, redump your game.
+
+We will not provide any dumps, as it enables piracy (which is not supported by us), so do not ask.
+
+There are multiple ways to confirm the filehash of your ROM. Two examples are:
+
+Operating System Agnostic: Use a site such as Marc Robledo's Rom Patcher
+You may need to select to "Force calculate checksum".
+All three hash algorithms (MD5, SHA1, SHA256) will be returned.
+Windows: Use a command line interface, such as PowerShell (Windows 10) or Terminal (Windows 11):
+Open PowerShell (Win + X).
+Navigate to the directory where the ROM file is located* (a basic summary of navigating directories in command prompt is here).
+Use the following command, replacing "ROM_name.nds" with the exact name of your ROM dump:
+certutil -hashfile ROM_name.nds
+The hash will be returned (along with the default hash algorithm: SHA1).
+A specified hash algorithm can be returned by adding this as a parameter to the command, for example: certutil -hashfile ROM_name.nds SHA256
+Mac: Use a command line interface, such as Terminal
+Open a Terminal
+Navigate to the directory where the ROM file is located*
+Use the following command, replacing "ROM_name.nds" with the exact name of your ROM dump:
+shasum -a 256 ROM_name.nds
+The SHA256 hash will be returned
+*It is possible to run these commands without navigating to the same directory as the ROM by replacing "ROM_name.nds" with the path to the ROM and the exact name of your ROM dump, e.g. /path/to/ROM_name.nds
+
+Pokémon Diamond (Known Good ROMs)
+Pokémon Pearl (Known Good ROMs)
+Pokémon Platinum (Known Good ROMs)
+Pokémon HeartGold (Known Good ROMs)
+Pokémon SoulSilver (Known Good ROMs)
+Recommended Tools
+The following tools are recommended to use when modifying the game files.
+
+Objective	Tool(s) / Resource(s)	Tutorials
+Audio/Music	Location & battle music editing (and Table Editor for HGSS):
+DSPRE (DS Pokémon ROM Editor) Reloaded
+Extracting and Inserting Sounds:
+Nitro Studio 2 (Lonk Fork)
+Obtain Sound Font Data and Extract Midi:
+VGMTrans
+Known Commands for Music Sequencing:
+SSEQ - SMFT - MIDI Commands
+Playback:
+DS Sound Studio (PlatinumMaster Fork)
+Music Insertion Wiki
+Graphic Editing	Overworld Sprite Editing
+BTX Editor 2
+Indexing Sprites (to be accepted by ROMs):
+Graphics Gale
+Edit Palette Colours:
+Console Tool
+Battle Sprite Editing:
+PokéDSPic
+PokEditor (v2)
+Tileset Editing:
+NitroPaint
+Tilemap Studio
+Sprite Drawing (with Indexing):
+Aseprite (paid)
+Aseprite (free) (requires knowledge on compilation)
+Title & icon editing:
+NitroViewer
+Editing Overworld Sprites
+Quick Colour Changes
+Advanced Pokémon Edits
+PokEditor Tutorials
+Mart/Shop Editing	Extensive PokéMart Editing (HeartGold Version only):
+HG-Engine
+Universal Pokémon Shop Editor:
+UPSE (Progressive Mart edits, but badge-gating only applies to vanilla items)
+Customise PokéMarts
+Mapping	PDSMS (Pokemon DS Map Studio): Tile-based custom map creation/editing tool
+Trifindo's current release
+AdAstra's fork (additional QoL features)
+Trinsic's fork (additional QoL features)
+Texture Editing:
+NitroPaint
+Importing Maps to ROM:
+DSPRE (DS Pokémon ROM Editor) Reloaded
+Making First Map
+Importing Custom Maps
+Mapping Overview Wiki Page
+Pokédex (Regional) Editing	Add, remove, re-order, edit descriptions & habitats:
+Raven DexEditor
+Pokémon Data Editing	Learnsets, Abilities, Stats, Types, Evolution Methods:
+DSPRE (DS Pokémon ROM Editor) Reloaded (good for one-by-one changes)
+PokEditor (v2) (good for batch changes)
+PokEditor Tutorials
+ROM Tools	File Explorer:
+NitroViewer
+Tinke v0.9.2
+Patching Tools:
+Delta Patcher
+XDelta
+Save File Editing	Edit Pokémon, Bag Items etc.
+PKHex
+PKMDS Save Editor (web-based)
+PKHex Tutorial
+Script Editing	Edit Scripts and Level Scripts:
+DSPRE (DS Pokémon ROM Editor) Reloaded
+Script Commands Database (Gen4):
+SCRCMD
+How to Write a Script
+Scripting 101
+Texts Editing	Edit Dialogue and More (Location names, move names...etc.):
+DSPRE (DS Pokémon ROM Editor) Reloaded
+How to Edit Text
+Trainer Battle Editing	Trainer AI, Class, Items & Team Edits:
+DSPRE (DS Pokémon ROM Editor) Reloaded
+VSMaker2
+PokEditor (v2)
+DSPRE Trainer Editing
+PokEditor Tutorials
+User Interface (UI) Editing	Palette changes (Heartgold & SoulSilver Versions only):
+HGSS Menu Palette Editor
+Town Map changes:
+Raven Town Map Editor
+Wild Encounters Editing	Edit Wild Encounter Tables
+DSPRE (DS Pokémon ROM Editor) Reloaded (Inlcuding: Headbutt Trees & Safari Zone for HGSS; Honey Tree, Trophy Garden for DPPt)
+PokEditor (v2)
+DSPRE Encounters Editing
+PokEditor Tutorials
+Recommended Resources
+Wiki Resources
+HGSS & Platinum File Structure
+External Resources
+In addition to the resources available on this Wiki, there are a number of external resources related to the vanilla Generation IV Pokémon games, which are useful when ROM Hacking:
+
+Reverse Engineering DS Games Tutorial
+HGSS Decompilation
+Platinum Decompilation
+Generation IV Trainer Move Selection AI full breakdown

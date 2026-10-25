@@ -1,0 +1,12 @@
+source_os=Red Hat Enterprise Linux release 8.10 (Ootpa)
+source_python_version=3.12.15
+source_python_minor=3.12
+source_arch=x86_64
+source_glibc=glibc 2.28
+fastembed_version=0.9.1
+qdrant_client_version=1.20.0
+llama_cpp_python_version=0.3.36
+wheel_count=43
+rhel_rpm_bundle=NO
+embedding_model=BAAI/bge-small-en-v1.5
+llm_model=Qwen2.5-1.5B-Instruct-Q4_K_M.gguf
